@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Unbounded:wght@200..900&display=swap');
+body {
+ scrollbar-width:none;
+}
+
+#topNavBar{
+	background-color: #3D4A59;
+}
+#navbar {
+  width: 85vw;
+  float: right;
+  height: 100px;
+}
+#mainNavBar {
+  width: 85%;
+  z-index: 9999;
+}
+#sideBar {
+  width: 15%;
+  left: 0;
+  height: 100vh;
+}
+
+#rightSection{
+	position: relative;
+	left: 150px;
+}

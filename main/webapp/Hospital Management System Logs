@@ -1,0 +1,35 @@
+Hospital Management System Logs
+--------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.0.0 :: FrontEnd : Login Signup Pages 
+| Description: Created Wireframes for FrontEnd designing
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.0.1 ::  FrontEnd : Login Signup Pages |
+| Description: Created User Authetication FrontEnd :-Login.html & Login.css Signup.html & Signup.css
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.0.2 ::  Backend : Database Configuration Created |  
+| Description: Created A File dbconfig.jsp which will help to connect to the user's database
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.0.3 ::  Backend : Connection.jsp Created |  
+| Description: Created A File Connection.jsp which will connect to the database and create a user
+| named 'admin' and database hospital management
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.0.4 ::  Backend : Tables.jsp Created |  
+| Description: Created A File Tables.jsp which will create tables in the hospital management database
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.0.4 ::  Backend : Tables.jsp Created |  
+| Description: Created A File Tables.jsp which will create tables in the hospital management database
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.1.0 ::  Backend : Backend Logic added to Signup.jsp |  
+| Description: User will now be able to create their credentials in the table 'login'
+---------------------------------------------------------------------------------------------------------------------
+| Release Date : 
+| Version 1.1.1 ::  Backend : Backend Logic added to Login.jsp |  
+| Description: User will now be able to check their credentials in the table 'login'
+---------------------------------------------------------------------------------------------------------------------
